@@ -1,0 +1,4 @@
+.*
+!.gitignore
+autouse-*
+Debian_CPANTS.txt
