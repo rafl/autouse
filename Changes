@@ -1,3 +1,7 @@
+1.07  Tue, 11 Sep 2012 09:52:12 -0400
+  * Restore autouse’s exemption from redef warnings.
+  * Add authority metadata.
+
 1.06  Fri, 10 Dec 2010 23:13:40 +0100
   * First upload to cpan. Identical with version 1.06 in the perl core. Upstream
     for this module is still blead perl.
