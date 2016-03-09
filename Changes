@@ -1,3 +1,6 @@
+1.10  Wed,  9 Mar 2016 18:38:00 -0400
+  * bump up the Scalar::Util requirement to match use of isdual
+
 1.09  Sun,  6 Mar 2016 15:33:15 -0400
   * update a test that used ok() when it meant like()
 
