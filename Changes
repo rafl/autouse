@@ -1,3 +1,6 @@
+1.11  Sun, 13 Mar 2016 18:45:00 -0400
+  * skip a failing test on very old perls
+
 1.10  Wed,  9 Mar 2016 18:38:00 -0400
   * bump up the Scalar::Util requirement to match use of isdual
 
